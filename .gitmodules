@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "whitebox"]
 	path = whitebox
 	url = https://github.com/opengeos/whiteboxr
-	shallow = true
-	registered = true
